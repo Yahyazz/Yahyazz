@@ -2,7 +2,7 @@
 - 👀 I’m interested in Web Developer
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on Web Project
-- 📫 How to reach me, contact my email yahyaz.zakaria.4@gmail.com
+- 📫 How to reach me, hit me an [email](yahyaz.zakaria.4@gmail.com) now
 
 <!---
 Yahyazz/Yahyazz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
