@@ -3,11 +3,14 @@
 A person who loves to create **Website** and curently learning **Javascript**.
 
 - 👀 I’m interested in Web Developer
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript and React
 - 💞️ I’m looking to collaborate on Web Project
 - 📫 How to reach me, hit me an [email](yahyaz.zakaria.4@gmail.com) now
 
 ### In love with
+  <a href="#"><img align="left" alt="React" title="React" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" /></a>
+  <p>React</p>
+  <br>
   <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
   <p>Javascript</p>
   <br>
